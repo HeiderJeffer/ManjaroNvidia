@@ -1,6 +1,7 @@
-```
+# Nvidia Manjaro
+
 https://github.com/dglt1/optimus-switch-gdm
-```
+
 #And Here: 
 
 https://forum.manjaro.org/t/manjaro-nvidia-slow-gaming-manjaro-nvidia-fast-no-gaming/112996/20
